@@ -1,0 +1,1 @@
+# yolo8_hand_detection_WIN
